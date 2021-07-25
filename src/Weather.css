@@ -42,10 +42,8 @@
   margin: 50px 0px 50px 0px;
 }
 
-.Weather .todays-icon {
+.Weather canvas {
   margin-right: 5px;
-  height: 250px;
-  width: 300px;
 }
 
 .Weather .btn {
