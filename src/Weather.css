@@ -68,7 +68,7 @@
   font-weight: 400;
 }
 
-.Weather .weather-temperature .units {
+.Weather .units {
   color: #284d63;
   position: relative;
   font-size: 16px;
