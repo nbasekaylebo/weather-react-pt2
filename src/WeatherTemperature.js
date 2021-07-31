@@ -20,7 +20,7 @@ export default function WeatherTemperature(props) {
     return (
       <div className="WeatherTemperature">
         <div className="row">
-          <div className="col-5">
+          <div className="col-6">
             <div className="clearfix">
               <div className="float-left">
                 <span className="temperature">{Math.round(props.celcius)}</span>

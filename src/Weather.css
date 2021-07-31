@@ -42,10 +42,6 @@
   margin: 50px 0px 50px 0px;
 }
 
-.Weather canvas {
-  margin-right: 5px;
-}
-
 .Weather .btn {
   color: #ffffff;
   border-color: #7a97b4;
@@ -71,10 +67,10 @@
 .Weather .units {
   color: #284d63;
   position: relative;
-  font-size: 16px;
-  font-weight: 400;
+  font-size: 10px;
+  font-weight: 700;
   line-height: 1;
-  top: -34px;
+  top: -40px;
 }
 
 .Weather .weather-temperature {
