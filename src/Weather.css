@@ -1,6 +1,5 @@
 .Weather {
   font-family: "Inter", sans-serif;
-  max-width: 668px;
 }
 
 .Weather h1 {
@@ -37,7 +36,7 @@
   padding: 20px;
 }
 
-.Weather .mini-card {
+.Weather .card {
   padding-bottom: 20px;
   margin: 50px 0px 50px 0px;
 }
@@ -67,7 +66,7 @@
 .Weather .units {
   color: #284d63;
   position: relative;
-  font-size: 10px;
+  font-size: 16px;
   font-weight: 700;
   line-height: 1;
   top: -40px;
@@ -87,4 +86,8 @@
   margin-right: 5px;
   height: 200px;
   width: 200px;
+}
+
+.WeatherInfo-description {
+  float: right;
 }

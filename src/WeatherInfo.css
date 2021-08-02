@@ -1,0 +1,7 @@
+.WeatherInfo li:first-letter {
+  text-transform: capitalize;
+}
+
+.wiDetails {
+  color: orange;
+}
